@@ -1,4 +1,4 @@
-# SpyNote-v6.5
+# SpyNote-v6.5 Full
 SpyNote-v6.5
 SpyNote v6.4 2022 Android Rat
 
